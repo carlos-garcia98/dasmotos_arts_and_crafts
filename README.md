@@ -1,6 +1,6 @@
 # Dasmoto's Arts & Crafts
 
-This is a website for a fictional arts and crafts store built for a Codecademy's practice project.
+This is a website for a fictional arts and crafts store built for a Codecademy practice project.
 
 ## Technologies Used.
 
